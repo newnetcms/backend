@@ -1,0 +1,13 @@
+{
+    "name": "newnetcms/backend",
+    "description": "NewnetCMS Backend",
+    "require": {
+        "newnetcms/acl": "self.version",
+        "newnetcms/asset": "self.version",
+        "newnetcms/dashboard": "self.version",
+        "newnetcms/media": "self.version",
+        "newnetcms/module": "self.version",
+        "newnetcms/setting": "self.version",
+        "newnetcms/admin-ui": "self.version"
+    }
+}
