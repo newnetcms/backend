@@ -1,6 +1,7 @@
 {
     "name": "newnetcms/backend",
     "description": "NewnetCMS Backend",
+    "license": "MIT",
     "require": {
         "newnetcms/acl": "self.version",
         "newnetcms/asset": "self.version",
