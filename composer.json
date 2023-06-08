@@ -9,6 +9,7 @@
         "newnetcms/media": "self.version",
         "newnetcms/module": "self.version",
         "newnetcms/setting": "self.version",
-        "newnetcms/admin-ui": "self.version"
+        "newnetcms/admin-ui": "self.version",
+        "doctrine/dbal": "^3.0"
     }
 }
